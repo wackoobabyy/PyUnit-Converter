@@ -1,7 +1,7 @@
 # PyUnit-Converter
 A command-line utility for performing standard metric-to-imperial conversions.
 
-## 🛠 Engineering Development Log (SDLC)
+## 🛠 Software Development Life Cycle (SDLC)
 
 **Name:** Jimoh Olamilekan Ridwanlah
 **Matric No.:** 25/18456
