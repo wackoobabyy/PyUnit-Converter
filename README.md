@@ -5,6 +5,7 @@ A command-line utility for performing standard metric-to-imperial conversions.
 
 **Name:** Jimoh Olamilekan Ridwanlah
 **Matric No.:** 25/18456
+**Course:** Computer Science
 
 ### Phase 1: Requirements Definition
 The objective was to build a lightweight tool to assist with common engineering conversions.
