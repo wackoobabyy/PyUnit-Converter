@@ -3,8 +3,8 @@ A command-line utility for performing standard metric-to-imperial conversions.
 
 ## 🛠 Engineering Development Log (SDLC)
 
-**Developer:** [Your Name]
-**Reference ID:** [Your ID]
+**Name:** Jimoh Olamilekan Ridwanlah
+**Matric No.:** 25/18456
 
 ### Phase 1: Requirements Definition
 The objective was to build a lightweight tool to assist with common engineering conversions.
